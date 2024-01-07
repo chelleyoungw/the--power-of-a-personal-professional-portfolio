@@ -35,8 +35,11 @@ aside {
 section {
     display: inline-flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    width: auto;
 }
 img {
-    width: 80%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: blueviolet;
+    width: 30%;
 }
