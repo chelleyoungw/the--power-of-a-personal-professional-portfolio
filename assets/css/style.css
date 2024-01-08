@@ -1,12 +1,8 @@
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 body {
     margin: 0;
-    display: flex;
-    flex-direction: column;
 }
 header {
     display: flex;
@@ -19,24 +15,32 @@ header {
 }
 nav {
     display: flex;
+    align-self: stretch;
 }
 nav a {
     display: flex;
     color: aquamarine;
 }
+about-me {
+    display: flex;
+}
+mini-bio {
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+}
 /*titles to the sections*/
-aside {
-    display: inline-flex;
-    flex-direction: column;
-    width: 30%;
+ h2 {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding: 100px 100px 100px 200px;
+    width: 500px;
     background-color: aquamarine;
 }
-/*About me section*/
-section {
-    display: inline-flex;
-    flex-direction: row;
-    width: auto;
-}
+/*image for horiseon marketing project*/
 img {
     border-style: solid;
     border-width: 3px;
