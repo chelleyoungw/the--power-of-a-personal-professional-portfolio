@@ -11,9 +11,9 @@ To navigate on the web application, you can click any of the 3 navigation topics
 
 ## Application Image and Link
 
-The following image shows the web application's appearance. You can also go to the web application by clicking the following link. https://chelleyoungw.github.io/marketing-accessibility
+The following image shows the web application's appearance. You can also go to the web application by clicking the following link. https://chelleyoungw.github.io/the--power-of-a-personal-professional-portfolio/
 
-![My Portfolio webpage includes a navigation bar, a header image, and sections with text and images at the bottom of the page.](./assets/Horiseon-Marketing-Optimization-and-Management.png) 
+![My Portfolio webpage includes a navigation bar, a header image, and sections with text and images at the bottom of the page.](./assets/images/my-personal-portfolio.png) 
 ## Credits
 
 Chelle Wood (student)
