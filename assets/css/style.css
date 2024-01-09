@@ -25,6 +25,8 @@ nav {
 nav a {
     display: flex;
     color: aquamarine;
+    margin: 0 10px;
+    padding: 0 5px;
 }
 about-me {
     display: flex;
